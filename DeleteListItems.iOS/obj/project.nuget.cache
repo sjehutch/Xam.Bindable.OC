@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXV7x+QI9mv6Gn52gY7pqlR7Vp9nfzm7zOgb056qXhjJUw1JrvmN4jmuuAOgu0mm9oT5elCPViivfD/BPlD0Nw==",
+  "success": true,
+  "projectFilePath": "/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems.iOS/DeleteListItems.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/shutchinson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

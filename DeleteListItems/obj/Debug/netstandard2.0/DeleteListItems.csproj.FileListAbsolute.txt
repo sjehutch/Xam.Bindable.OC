@@ -1,0 +1,14 @@
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/bin/Debug/netstandard2.0/DeleteListItems.deps.json
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/bin/Debug/netstandard2.0/DeleteListItems.dll
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/bin/Debug/netstandard2.0/ref/DeleteListItems.dll
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/bin/Debug/netstandard2.0/DeleteListItems.pdb
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.csprojAssemblyReference.cache
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.AssemblyInfoInputs.cache
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.AssemblyInfo.cs
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.csproj.CoreCompileInputs.cache
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.dll
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/ref/DeleteListItems.dll
+/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/obj/Debug/netstandard2.0/DeleteListItems.pdb

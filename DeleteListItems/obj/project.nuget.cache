@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnS9l1t6mse+pLF8R7er2lsZSjO7ARjlRqmBe1/214RqNufdrTOOXT2zKiIBr5H4pOZ/u0YY07pseL0gJ8JkkA==",
+  "success": true,
+  "projectFilePath": "/Users/shutchinson/Downloads/DeleteListItems/DeleteListItems/DeleteListItems.csproj",
+  "expectedPackageFiles": [
+    "/Users/shutchinson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

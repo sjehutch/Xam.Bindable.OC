@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{CD25EC92-6F53-4705-9FED-C34F72BC34ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeleteListItems.Android PreferredExecutionTarget="Android.pixel_3_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.DeleteListItems.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.817CCDE2-CF5A-4D61-8C66-4E27CB1808BE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeleteListItems/MainPageViewModel.cs">
+    <Files>
+      <File FileName="DeleteListItems/MainPageViewModel.cs" Line="53" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeleteListItems" expanded="True">
+            <Node name="DeleteListItems" expanded="True">
+              <Node name="MainPageViewModel.cs" selected="True" />
+            </Node>
+            <Node name="DeleteListItems.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="DeleteListItems" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
